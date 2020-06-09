@@ -1,0 +1,7 @@
+C:\Users\user\source\repos\afterSchool2020\Ex01_PrindOddEvenNumber\bin\Debug\Ex01_PrindOddEvenNumber.exe.config
+C:\Users\user\source\repos\afterSchool2020\Ex01_PrindOddEvenNumber\bin\Debug\Ex01_PrindOddEvenNumber.exe
+C:\Users\user\source\repos\afterSchool2020\Ex01_PrindOddEvenNumber\bin\Debug\Ex01_PrindOddEvenNumber.pdb
+C:\Users\user\source\repos\afterSchool2020\Ex01_PrindOddEvenNumber\obj\Debug\Ex01_PrindOddEvenNumber.csprojAssemblyReference.cache
+C:\Users\user\source\repos\afterSchool2020\Ex01_PrindOddEvenNumber\obj\Debug\Ex01_PrindOddEvenNumber.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\afterSchool2020\Ex01_PrindOddEvenNumber\obj\Debug\Ex01_PrindOddEvenNumber.exe
+C:\Users\user\source\repos\afterSchool2020\Ex01_PrindOddEvenNumber\obj\Debug\Ex01_PrindOddEvenNumber.pdb
